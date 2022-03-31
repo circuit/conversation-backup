@@ -1,0 +1,6 @@
+const config = {};
+
+config.server = 'eu.yourcircuit.com'
+config.cookie = 'CHANGE_ME'
+
+module.exports = config
